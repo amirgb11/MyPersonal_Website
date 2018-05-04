@@ -36,7 +36,7 @@ url('../fonts/IRANSans-Light-web.ttf') format('ttf');
 
 
 html, body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif , 'IRANSans-Light_web';
     font-size: 100%;
   	background: #FFf;
 }
@@ -48,7 +48,7 @@ body a{
 	-ms-transition:0.5s all;
 }
 body h1,h2,h3,h4,h5,h6{
-	    font-family: 'Asap', sans-serif;
+	    font-family: 'Asap', sans-serif ,  'IRANSans-Light-web';
 }
 /*-- header --*/
 #home {
@@ -110,7 +110,7 @@ span.menu{
 	color: #797878;
 	text-shadow: none;
 	position: relative;  
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'IRANSans-Light-web';
 }
 .link-effect-3 a::before {
 	position: absolute;
